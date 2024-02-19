@@ -1,0 +1,13 @@
+.orders-tab{
+    display: flex;
+    flex-direction: column;
+    width: 12%;
+}
+.refresh{
+    border-right-color:  blue ;
+    gap: 10px;
+}
+.reg{
+    border-right-color: blue;
+    border: 5px blue solid;
+}

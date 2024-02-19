@@ -1,0 +1,28 @@
+/* NavigationBar.css */
+.navigation-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #f5f5f5;
+    color: black;
+    border-bottom: 1px solid #ddd;
+  }
+  
+.end-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0px 8px;
+    margin: 0px 8px;
+}
+  .logo-m{
+    width: 30px;
+    height: 30px;
+  }
+.refresh{
+    margin-left: 10px;
+    list-style-type: none;
+    border: none;
+}
